@@ -1,0 +1,12 @@
+.dashboard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #D9D9D9;
+}
+.dashboard_content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}

@@ -1,0 +1,23 @@
+.stop_reason_page{
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+}
+
+.chart_container{
+    display: flex;
+
+}
+
+.label{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-bottom: 1em;
+}
+
+.label_description{
+    padding-bottom: .7em;
+    font-size: 14px;
+}

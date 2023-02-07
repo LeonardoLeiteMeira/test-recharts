@@ -1,0 +1,18 @@
+:root{
+    --side-bar-width:10vw;
+    --side-bar-height:100vh;
+    background-color: #000000;
+}
+
+.sidebarContainer{
+    width: var(--side-bar-width);
+    height: var(--side-bar-height);
+    background-color: #000000;
+}
+.sideBarMenu{
+    display: flex;
+    position: fixed;
+    background-color:#000000;
+    width: var(--side-bar-width);
+    height: var(--side-bar-height);
+}
